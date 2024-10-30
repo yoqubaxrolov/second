@@ -1,2 +1,2 @@
 # second
-this code 
+this code indentified people who are adult 
